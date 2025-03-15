@@ -1,6 +1,6 @@
 # 📡 Gestion des Subscribers - Java  
 
-Ce projet implémente un système de gestion de **subscribers** pour un service d'envoi de messages. 📬  
+Ce projet implémente un système de gestion de **subscribers** pour un service d'envoi de messages en java. 📬  
 
 ## 🏗️ Structure du projet  
 
